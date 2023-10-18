@@ -52,3 +52,6 @@ URL: /books/{bookId}
 # hasil tes API
 ini adalah screenshot tes API untuk aplikasi Bookshel API yang sudah di tentukan dicoding
 ![Screenshot (218)](https://github.com/ALDI010403/Bookshelf-API/assets/102725152/0b5179bf-b085-48a4-8454-f9f6038e5d25)
+
+## Author
+Aldi
